@@ -100,7 +100,7 @@ body {
         transform: translateX(-100px) rotate(0deg);
     }
 
-    60% {
+    50% {
         transform: rotate(120deg);
     }
 
